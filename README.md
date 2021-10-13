@@ -1,6 +1,7 @@
 # sns
 
 ## Social network service
+<img src="https://raw.githubusercontent.com/snschain/sns/main/files/android_app.jpg" width="300px" />
 
 ## Introduce
 
